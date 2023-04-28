@@ -59,19 +59,19 @@ doTacStatPreDexMec
 `Ctrl+Shift+-`<br>
 doTacStatDexMec
 
-`Ctrl+Shift+\\ `<br>
+`Ctrl+Shift+\`<br>
 doMapDropBackpack
 
-`Ctrl+Shift+-'<br>
+`Ctrl+Shift+-`<br>
 doMapDropBackpack2
 
-`Ctrl+Shift+-[<br>
+`Ctrl+Shift+[`<br>
 doTacBatStatWisExp
 
-`Ctrl+Shift+-]<br>
+`Ctrl+Shift+]`<br>
 doTacBatStatWisExp2
 
-`Ctrl+Shift+-.<br>
+`Ctrl+Shift+.`<br>
 doTacBatPostProc
 
 * * *
