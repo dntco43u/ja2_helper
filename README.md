@@ -59,7 +59,7 @@ doTacStatPreDexMec
 `Ctrl+Shift+-`<br>
 doTacStatDexMec
 
-`Ctrl+Shift+\\'<br>
+`Ctrl+Shift+\\ '<br>
 doMapDropBackpack
 
 `Ctrl+Shift+-'<br>
